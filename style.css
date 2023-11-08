@@ -1,0 +1,27 @@
+nav{
+    background-color: gray;
+    height: 50px;
+} 
+
+.menu ul{
+    display: inline;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu ul li {
+    
+    padding: 3px;
+    display: inline;
+    margin-left: 10px;
+    list-style-type: none;
+    font-size: 20px;
+}
+h1{
+ display: flex;
+ text-align: center;   
+ justify-content: center;
+}
+.text p{
+padding: 0px;   
+}
